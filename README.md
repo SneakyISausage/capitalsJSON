@@ -6,7 +6,8 @@ I think I will extend the list to further lists with TimeZones, which Hemisphere
 ## countryCapitals.json
 List order by continents and alphabet </br>
 
-includes: - country name as "Name" </br>
+includes: </br>
+          - country name as "Name" </br>
           - countries capital as "Capital" </br>
           - latitude value as "Lat" </br>
           - longitude value as "Lng" </br>
